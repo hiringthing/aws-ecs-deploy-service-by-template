@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "@actions/core": "^1.2.6",
-    "@aws-sdk/client-ecs": "^1.0.0-rc.2"
+    "@aws-sdk/client-ecs": "^3.338.0"
   },
   "devDependencies": {
     "@vercel/ncc": "^0.24.1",
