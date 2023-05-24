@@ -21,7 +21,7 @@
     "lint": "eslint **.js"
   },
   "dependencies": {
-    "@actions/core": "^1.2.6",
+    "@actions/core": "^1.9.1",
     "@aws-sdk/client-ecs": "^3.338.0"
   },
   "devDependencies": {
