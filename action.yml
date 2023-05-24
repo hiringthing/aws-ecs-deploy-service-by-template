@@ -24,5 +24,5 @@ inputs:
     description: 'The name of the ECS service to update.'
     required: true
 runs:
-  using: 'node12'
+  using: 'node16'
   main: './dist/index.js'
